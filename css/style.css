@@ -891,6 +891,7 @@ img {
     overflow: hidden;
     display: block;
     position: relative;
+    padding: 2px 2px 2px 2px;
 }
 
 .portfolio-item .portfolio_img img {
